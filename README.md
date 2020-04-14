@@ -11,3 +11,5 @@ Projects done for learning purposes.
 #### Chapter 12
 
 [2048](https://github.com/DeT0m/learning-projects/tree/master/play2048)
+
+[Link verification](https://github.com/DeT0m/learning-projects/tree/master/linkVerification)
