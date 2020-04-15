@@ -21,3 +21,7 @@ Projects done for learning purposes.
 [Blank row inserter](https://github.com/DeT0m/learning-projects/tree/master/blankRowInserter)
 
 [Spreadsheet cell inverter](https://github.com/DeT0m/learning-projects/tree/master/spreadsheetCellInverter)
+
+[Text files to spreadsheet](https://github.com/DeT0m/learning-projects/tree/master/textFilesToSpreadsheet)
+
+[Spreadsheet to text files](https://github.com/DeT0m/learning-projects/tree/master/spreadsheetToTextFiles)
