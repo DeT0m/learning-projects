@@ -17,3 +17,5 @@ Projects done for learning purposes.
 #### Chapter 13
 
 [Multiplication table](https://github.com/DeT0m/learning-projects/tree/master/multiplicationTable)
+
+[Blank row inserter](https://github.com/DeT0m/learning-projects/tree/master/blankRowInserter)
