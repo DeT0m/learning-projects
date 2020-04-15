@@ -13,3 +13,7 @@ Projects done for learning purposes.
 [2048](https://github.com/DeT0m/learning-projects/tree/master/play2048)
 
 [Link verification](https://github.com/DeT0m/learning-projects/tree/master/linkVerification)
+
+#### Chapter 13
+
+[Multiplication table](https://github.com/DeT0m/learning-projects/tree/master/multiplicationTable)
