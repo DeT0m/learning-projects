@@ -19,3 +19,5 @@ Projects done for learning purposes.
 [Multiplication table](https://github.com/DeT0m/learning-projects/tree/master/multiplicationTable)
 
 [Blank row inserter](https://github.com/DeT0m/learning-projects/tree/master/blankRowInserter)
+
+[Spreadsheet cell inverter](https://github.com/DeT0m/learning-projects/tree/master/spreadsheetCellInverter)
