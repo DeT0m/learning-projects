@@ -25,3 +25,9 @@ Projects done for learning purposes.
 [Text files to spreadsheet](https://github.com/DeT0m/learning-projects/tree/master/textFilesToSpreadsheet)
 
 [Spreadsheet to text files](https://github.com/DeT0m/learning-projects/tree/master/spreadsheetToTextFiles)
+
+#### Chapter 14
+
+[Downloading Google Forms Data](https://github.com/DeT0m/learning-projects/tree/master/getFormData)
+
+[Finding mistakes in spreadsheet](https://github.com/DeT0m/learning-projects/tree/master/checkFormData)
