@@ -31,3 +31,8 @@ Projects done for learning purposes.
 [Downloading Google Forms Data](https://github.com/DeT0m/learning-projects/tree/master/getFormData)
 
 [Finding mistakes in spreadsheet](https://github.com/DeT0m/learning-projects/tree/master/checkFormData)
+
+#### Chapter 16
+
+[Excel-to-CSV Converter](https://github.com/DeT0m/learning-projects/tree/master/excelToCsvConverter)
+
