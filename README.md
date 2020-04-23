@@ -36,3 +36,6 @@ Projects done for learning purposes.
 
 [Excel-to-CSV Converter](https://github.com/DeT0m/learning-projects/tree/master/excelToCsvConverter)
 
+#### Chapter 19
+
+[Custom seating cards](https://github.com/DeT0m/learning-projects/tree/master/customSeatingCards)
