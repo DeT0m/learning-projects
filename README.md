@@ -4,6 +4,18 @@ Projects done for learning purposes.
 ## Automate the boring stuff with Python
 ### Practice Projects
 
+#### Chapter 5
+
+[Chess dictionary validator](https://github.com/DeT0m/learning-projects/tree/master/chessDictionaryValidator)
+
+[Fantasy game inventory](https://github.com/DeT0m/learning-projects/tree/master/fantasyGameInventory)
+
+#### Chapter 8
+
+[Sandwich maker](https://github.com/DeT0m/learning-projects/tree/master/sandwichMaker)
+
+[Multiplication quiz](https://github.com/DeT0m/learning-projects/tree/master/multiplicationQuiz)
+
 #### Chapter 10
 
 [Filling in the gaps](https://github.com/DeT0m/learning-projects/tree/master/fillOutTheGaps)
