@@ -10,6 +10,14 @@ Projects done for learning purposes.
 
 [Fantasy game inventory](https://github.com/DeT0m/learning-projects/tree/master/fantasyGameInventory)
 
+#### Chapter 7
+
+[Date detection](https://github.com/DeT0m/learning-projects/tree/master/dateDetection)
+
+[Strong password detection](https://github.com/DeT0m/learning-projects/tree/master/strongPasswordDetection)
+
+[Regex Version of the strip() Method](https://github.com/DeT0m/learning-projects/tree/master/stripRegex)
+
 #### Chapter 8
 
 [Sandwich maker](https://github.com/DeT0m/learning-projects/tree/master/sandwichMaker)
