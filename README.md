@@ -16,6 +16,12 @@ Projects done for learning purposes.
 
 [Multiplication quiz](https://github.com/DeT0m/learning-projects/tree/master/multiplicationQuiz)
 
+#### Chapter 9
+
+[Mad libs](https://github.com/DeT0m/learning-projects/tree/master/madLibs)
+
+[Regex Search](https://github.com/DeT0m/learning-projects/tree/master/regexSearch)
+
 #### Chapter 10
 
 [Filling in the gaps](https://github.com/DeT0m/learning-projects/tree/master/fillOutTheGaps)
@@ -51,3 +57,7 @@ Projects done for learning purposes.
 #### Chapter 19
 
 [Custom seating cards](https://github.com/DeT0m/learning-projects/tree/master/customSeatingCards)
+
+#### Chapter 20
+
+[Looking busy](https://github.com/DeT0m/learning-projects/tree/master/lookingBusy)
